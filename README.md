@@ -17,3 +17,47 @@
 ⚙️ Tools:  Docker
 ☁️ Cloud: AWS EC2, S3 
 🗃️ Databases: MySQL, SQLite3
+
+🧠 Projects
+
+🏥 Hospital Management System
+Role-based system for admin, doctor, and patient with login and dashboards
+👑 Admin – Manages doctors, patients, appointments & departments,Generate Bill
+🩺 Doctor – Views schedule, patient history, and updates records,Generate prescription
+👤 Patient – Books appointments, views status & history, Download Bill in PDF format, Pay bill, Download prescription
+Tech: Django, Bootstrap, SQLite
+
+🚀 Deploying
+🔹 Tools: Python, Django, Bootstrap, Gunicorn, Nginx
+🔗 Live Demo: http://54.175.74.173
+
+📝 BlogProject
+Full-feature blog with post creation, likes, comments, and admin control
+Tech: Django, Bootstrap, SQLite
+
+🌍 Tourist Destination CRUD Web App
+Add/edit/delete destinations with a responsive frontend
+Tech: Django, HTML, CSS
+
+📖 Open Library Project
+Search and view books using OpenLibrary and by book cart
+Tech: Python, API Integration
+
+📊 Student Management (Streamlit)
+Data entry and analytics UI using Streamlit
+Tech: Python, Streamlit
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhirampullanikad&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirampullanikad&theme=radical" width="47%" /> </p>
+🙋‍♂️ About Me
+🎓 Final-year B.Sc. Computer Science student from Palakkad, Kerala
+
+🌱 Currently learning: Docker, AWS, Kubernetes
+
+💼 Goal: Python full stack developer role @ ₹5 LPA
+
+⚽ Football lover and backend enthusiast
+
+
+📬 Connect With Me
+<p align="center"> <a href="mailto:abhiramppullanikad23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Abhirampullanikad"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abhiram-p-29369b314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> ```
