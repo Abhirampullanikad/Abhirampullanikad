@@ -46,7 +46,6 @@ Tech: Python, API Integration
 📊 Student Management (Streamlit)
 Data entry and analytics UI using Streamlit
 Tech: Python, Streamlit
-```
 
 🙋‍♂️ About Me
 🎓 intern inmakes
