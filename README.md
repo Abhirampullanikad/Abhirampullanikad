@@ -49,13 +49,10 @@ Tech: Python, Streamlit
 ```
 
 🙋‍♂️ About Me
-🎓 Final-year B.Sc. Computer Science student from Palakkad, Kerala
+🎓 intern inmakes
 
-🌱 Currently learning: Docker, AWS, Kubernetes
+🌱 Currently learning: Kubernetes
 
-💼 Goal: Python full stack developer role @ ₹5 LPA
-
-⚽ Football lover and backend enthusiast
 
 
 📬 Connect With Me
