@@ -34,9 +34,11 @@ A role-based system for Admin, Doctor, and Patient with PDF and billing features
 👤 Patient: Book appointments, view bills/prescriptions, download PDFs, pay online
 
 ⚙️ Tech: Django, Bootstrap, SQLite
+```
 
 🔗 Live Demo: Hospital App
 
+```bash
 📝 Blog Project
 Create, edit, like, and comment on blog posts
 
@@ -71,7 +73,7 @@ Data entry and visualization dashboard using Streamlit
 👨‍💻 Intern @ Inmakes
 
 ⚽ Football lover | Clean code enthusiast
-
+```
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhirampullanikad&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirampullanikad&theme=radical" width="47%" /> </p>
-<p align="center"> <a href="mailto:abhiramppullanikad23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Abhirampullanikad"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abhiram-p-29369b314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> ```
+<p align="center"> <a href="mailto:abhiramppullanikad23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Abhirampullanikad"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abhiram-p-29369b314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
