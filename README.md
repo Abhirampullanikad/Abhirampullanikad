@@ -54,5 +54,5 @@ Tech: Python, Streamlit
 ```
 
 
-📬 Connect With Me
+
 <p align="center"> <a href="mailto:abhiramppullanikad23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Abhirampullanikad"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/abhiram-p-29369b314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
